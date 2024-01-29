@@ -21,6 +21,8 @@ conda activate viralrecon
 conda install nextflow
 ```
 
-
 Despues dentro de las pipelines de nextflow buscamos viral recon que es la que nos interesa.
 https://nf-co.re/viralrecon/2.6.0
+
+El tutorial esta mejor aqui explicado
+https://nf-co.re/viralrecon/1.0.0
