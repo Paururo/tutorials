@@ -1,7 +1,7 @@
 # tutorials
 Markdown files to learn about a lot of things
 
-# Make everyday counts
+# Make everyday count
 
 ## TO.DO
  - [ ] Restructure content
